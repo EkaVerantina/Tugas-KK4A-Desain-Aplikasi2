@@ -13,5 +13,4 @@
     <color name="light_background">#EFEFEF</color>
     <color name="text_color">#333333</color>
     <color name="button_color">#FFEC407A</color>
-    <color name="gradient_color">#C973FF #AEBAF8</color>
 </resources>
